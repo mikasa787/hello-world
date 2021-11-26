@@ -9,4 +9,8 @@ char* StrCpy(char* src)
 	dest[len + 1] = '/0';
 	return dest;
 }
+
 /*本地编辑*/
+
+
+
